@@ -1,144 +1,197 @@
-country_name,country_code
-United Arab Emirates,AE
-Afghanistan,AF
-Albania,AL
-Armenia,AM
-Angola,AO
-Argentina,AR
-Austria,AT
-Australia,AU
-Azerbaijan,AZ
-Bosnia and Herzegovina,BA
-Bangladesh,BD
-Belgium,BE
-Burkina Faso,BF
-Bulgaria,BG
-Burundi,BI
-Benin,BJ
-Brunei Darussalam,BN
-Bolivia,BO
-Brazil,BR
-Bahamas,BS
-Bhutan,BT
-Botswana,BW
-Belarus,BY
-Belize,BZ
-Canada,CA
-Central African Republic,CF
-Republic of Congo,CG
-Democratic Republic of Congo,CD
-Côte d'Ivoire,CI
-Colombia,CO
-Costa Rica,CR
-Cuba,CU
-Cyprus,CY
-Czechia,CZ
-Germany,DE
-Djibouti,DJ
-Denmark,DK
-Dominican Republic,DO
-Algeria,DZ
-Ecuador,EC
-Estonia,EE
-Egypt,EG
-Western Sahara,EH
-Eritrea,ER
-Spain,ES
-Ethiopia,ET
-Falkland Islands,FK
-Finland,FI
-Fiji,FJ
-France,FR
-Gabon,GA
-United Kingdom,GB
-Gambia,GM
-Guinea,GN
-Equatorial Guinea,GQ
-Greece,GR
-Guatemala,GT
-Guinea-Bissau,GW
-Guyana,GY
-Honduras,HN
-Croatia,HR
-Haiti,HT
-Hungary,HU
-Indonesia,ID
-India,IN
-Iran,IR
-Iraq,IQ
-Ireland,IE
-Israel,IL
-Italy,IT
-Jamaica,JM
-Jordan,JO
-Japan,JP
-Kenya,KE
-Kyrgyzstan,KG
-Cambodia,KH
-North Korea,KP
-South Korea,KR
-Kosovo,XK
-Kuwait,KW
-Kazakhstan,KZ
-Lao People's Democratic Republic,LA
-Lebanon,LB
-Sri Lanka,LK
-Liberia,LR
-Lesotho,LS
-Lithuania,LT
-Luxembourg,LU
-Latvia,LV
-Libya,LY
-Morocco,MA
-Moldova,MD
-Montenegro,ME
-Madagascar,MG
-Malaysia,MY
-Malawi,MW
-Mexico,MX
-Mozambique,MZ
-Namibia,NA
-New Caledonia,NC
-Niger,NE
-Nigeria,NG
-Nicaragua,NI
-Netherlands,NL
-Norway,NO
-Nepal,NP
-New Zealand,NZ
-Oman,OM
-Panama,PA
-Peru,PE
-Philippines,PH
-Portugal,PT
-Paraguay,PY
-Qatar,QA
-Romania,RO
-Serbia,RS
-Russia,RU
-Rwanda,RW
-Saudi Arabia,SA
-Solomon Islands,SB
-Sudan,SD
-Sweden,SE
-Swaziland,SZ
-Sierra Leone,SL
-Senegal,SN
-Somalia,SO
-South Africa,ZA
-South Sudan,SS
-Spain,ES
-Tajikistan,TJ
-Thailand,TH
-Togo,TG
-Timor-Leste,TL
-Turkey,TR
-Turkmenistan,TM
-United States,US
-Uruguay,UY
-Uzbekistan,UZ
-Vanuatu,VU
-Venezuela,VE
-Vietnam,VN
-Zambia,ZM
-Zimbabwe,ZW
+country_code,country_name
+AE, United Arab Emirates
+AF, Afghanistan
+AL, Albania
+AM, Armenia
+AO, Angola
+AR, Argentina
+AT, Austria
+AU, Australia
+AZ, Azerbaijan
+BA, Bosnia and Herzegovina
+BD, Bangladesh
+BE, Belgium
+BF, Burkina Faso
+BG, Bulgaria
+BI, Burundi
+BJ, Benin
+BN, Brunei Darussalam
+BO, Bolivia
+BR, Brazil
+BS, Bahamas
+BT, Bhutan
+BW, Botswana
+BY, Belarus
+BZ, Belize
+CA, Canada
+CD, Democratic Republic of Congo
+CF, Central African Republic
+CG, Republic of Congo
+CH, Switzerland
+CI, Côte d'Ivoire
+CL, Chile
+CM, Cameroon
+CN, China
+CO, Colombia
+CR, Costa Rica
+CU, Cuba
+CY, Cyprus
+CZ, Czechia
+DE, Germany
+DJ, Djibouti
+DK, Denmark
+DO, Dominican Republic
+DZ, Algeria
+EC, Ecuador
+EE, Estonia
+EG, Egypt
+EH, Western Sahara
+ER, Eritrea
+ES, Spain
+ET, Ethiopia
+FI, Finland
+FJ, Fiji
+FR, France
+GA, Gabon
+GB, United Kingdom
+GD, Grenada
+GE, Georgia
+GF, French Guiana
+GH, Ghana
+GL, Greenland
+GM, Gambia
+GN, Guinea
+GQ, Equatorial Guinea
+GR, Greece
+GT, Guatemala
+GW, Guinea-Bissau
+GY, Guyana
+HN, Honduras
+HR, Croatia
+HT, Haiti
+HU, Hungary
+ID, Indonesia
+IE, Ireland
+IL, Israel
+IN, India
+IQ, Iraq
+IR, Iran
+IS, Iceland
+IT, Italy
+JM, Jamaica
+JO, Jordan
+JP, Japan
+KE, Kenya
+KG, Kyrgyzstan
+KH, Cambodia
+KP, North Korea
+KR, South Korea
+KW, Kuwait
+KZ, Kazakhstan
+LA, Lao People's Democratic Republic
+LB, Lebanon
+LK, Sri Lanka
+LR, Liberia
+LS, Lesotho
+LT, Lithuania
+LU, Luxembourg
+LV, Latvia
+LY, Libya
+MA, Morocco
+MD, Moldova
+ME, Montenegro
+MG, Madagascar
+MK, Macedonia
+ML, Mali
+MM, Myanmar
+MN, Mongolia
+MR, Mauritania
+MS, Montserrat
+MT, Malta
+MU, Mauritius
+MV, Maldives
+MW, Malawi
+MX, Mexico
+MY, Malaysia
+MZ, Mozambique
+NA, Namibia
+NC, New Caledonia
+NE, Niger
+NG, Nigeria
+NI, Nicaragua
+NL, Netherlands
+NO, Norway
+NP, Nepal
+NZ, New Zealand
+OM, Oman
+PA, Panama
+PE, Peru
+PG, Papua New Guinea
+PH, Philippines
+PK, Pakistan
+PL, Poland
+PM, Saint Pierre and Miquelon
+PN, Pitcairn Islands
+PR, Puerto Rico
+PT, Portugal
+PW, Palau
+PY, Paraguay
+QA, Qatar
+RE, Réunion
+RO, Romania
+RS, Serbia
+RU, Russia
+RW, Rwanda
+SA, Saudi Arabia
+SB, Solomon Islands
+SC, Seychelles
+SD, Sudan
+SE, Sweden
+SG, Singapore
+SH, Saint Helena
+SI, Slovenia
+SJ, Svalbard and Jan Mayen
+SK, Slovakia
+SL, Sierra Leone
+SM, San Marino
+SN, Senegal
+SO, Somalia
+SR, Suriname
+SS, South Sudan
+ST, São Tomé and Príncipe
+SV, El Salvador
+SX, Sint Maarten
+SY, Syria
+SZ, Swaziland
+TC, Turks and Caicos Islands
+TD, Chad
+TF, French Southern and Antarctic Lands
+TG, Togo
+TH, Thailand
+TJ, Tajikistan
+TK, Tokelau
+TL, Timor-Leste
+TM, Turkmenistan
+TN, Tunisia
+TO, Tonga
+TR, Turkey
+TT, Trinidad and Tobago
+TV, Tuvalu
+TZ, Tanzania
+UA, Ukraine
+UG, Uganda
+US, United States
+UY, Uruguay
+UZ, Uzbekistan
+VA, Vatican City
+VC, Saint Vincent and the Grenadines
+VE, Venezuela
+VG, British Virgin Islands
+VI, U.S. Virgin Islands
+VN, Vietnam
+VU, Vanuatu
+WS, Samoa
+YE, Yemen
+ZA, South Africa
+ZM, Zambia
+ZW, Zimbabwe
