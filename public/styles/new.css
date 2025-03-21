@@ -1,0 +1,121 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  transform: translate(-35%, -35%);
+  font-family: "Roboto";
+  color: #ffffff;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+input[type="radio"]:checked+label span {
+  transform: scale(1.25);
+}
+
+input[type="radio"]:checked+label .color1 {
+  border: 2px solid #ffe06670;
+}
+
+input[type="radio"]:checked+label .color2 {
+  border: 2px solid #69db7c70;
+}
+
+input[type="radio"]:checked+label .color3 {
+  border: 2px solid #ff6b6b70;
+}
+
+input[type="radio"]:checked+label .color4 {
+  border: 2px solid #f783ac70;
+}
+
+input[type="radio"]:checked+label .color5 {
+  border: 2px solid #da77f270;
+}
+
+input[type="radio"]:checked+label .color6 {
+  border: 2px solid #9775fa70;
+}
+
+input[type="radio"]:checked+label .color7 {
+  border: 2px solid #748ffc70;
+}
+
+input[type="radio"]:checked+label .color8 {
+  border: 2px solid #4dabf770;
+}
+
+input[type="radio"]:checked+label .color9 {
+  border: 2px solid #3bc9db70;
+}
+
+input[type="radio"]:checked+label .color10 {
+  border: 2px solid #38d9a970;
+}
+
+label {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+label:hover span {
+  transform: scale(1.25);
+}
+
+label span {
+  display: block;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.2s ease-in-out;
+}
+
+label span.color1 {
+  background: #ffe066;
+}
+
+label span.color2 {
+  background: #69db7c;
+}
+
+label span.color3 {
+  background: #ff6b6b;
+}
+
+label span.color4 {
+  background: #f783ac;
+}
+
+label span.color5 {
+  background: #da77f2;
+}
+
+label span.color6 {
+  background: #9775fa;
+}
+
+label span.color7 {
+  background: #748ffc;
+}
+
+label span.color8 {
+  background: #4dabf7;
+}
+
+label span.color9 {
+  background: #3bc9db;
+}
+
+label span.color10 {
+  background: #38d9a9;
+}
