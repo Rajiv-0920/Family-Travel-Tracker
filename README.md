@@ -139,4 +139,4 @@ Here are some screenshots of the application:
 *   **Rajiv Kumar**
 *   **Email:** kumarrajiv0920@gmail.com
 *   **GitHub:** [My GitHub Profile](https://github.com/Rajiv-0920)
-*   **Linkedin:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rajiv4373)
+*   **Linkedin:** [Connect with me on LinkedIn](www.linkedin.com/in/rajivkumar0920)
