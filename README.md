@@ -38,11 +38,11 @@ The Family Travel Tracker is a web application that allows users to keep track o
 1.  **Clone the repository:**
 
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/Rajiv-0920/Family-Travel-Tracker.git 
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd <project_directory>
+    cd <project directory>
     ```
 2.  **Install dependencies:**
 
